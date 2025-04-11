@@ -7,5 +7,7 @@
                     1.1 [ ] clone prod, turn it off, get the clean sitemap-and only compare those SLUGS after the mainsite.com ?? [NO DOWNTIME ON USERS, Mid effort]
         2. Manually filter through the sitemaps and parse the correct data. [More effort]
             2.1  [ ] is there an easy pattern to spot?
+        3. create a page with all components used on site, so that way we can compare one LONG page as source of truth.
+            [ ] 
 
     
